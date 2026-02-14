@@ -1,0 +1,105 @@
+2025/11/02 16:19:59 [notice] 9496#23456: using the "select" event method
+2025/11/02 16:19:59 [notice] 9496#23456: nginx/1.13.12
+2025/11/02 16:19:59 [info] 9496#23456: OS: 260200 build:9200, "", suite:300, type:1
+2025/11/02 16:19:59 [notice] 9496#23456: start worker processes
+2025/11/02 16:19:59 [notice] 9496#23456: start worker process 25336
+2025/11/02 16:19:59 [notice] 25336#36048: nginx/1.13.12
+2025/11/02 16:19:59 [info] 25336#36048: OS: 260200 build:9200, "", suite:300, type:1
+2025/11/02 16:19:59 [notice] 25336#36048: create thread 14180
+2025/11/02 16:19:59 [notice] 25336#36048: create thread 4948
+2025/11/02 16:19:59 [notice] 25336#36048: create thread 27940
+2025/11/02 16:20:25 [info] 25336#14180: *1 client connected '127.0.0.1'
+2025/11/02 16:20:25 [info] 25336#14180: *1 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:20:25 [info] 25336#14180: *1 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:20:25 [info] 25336#14180: *1 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:22:07 [info] 25336#14180: *3 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2025/11/02 16:22:07 [info] 25336#14180: *4 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2025/11/02 16:23:13 [info] 25336#14180: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:23:13 [info] 25336#14180: *1 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:23:13 [info] 25336#14180: *1 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:23:13 [info] 25336#14180: *1 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:24:57 [error] 25336#14180: *5 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:8080"
+2025/11/02 16:24:57 [info] 25336#14180: *5 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2025/11/02 16:24:59 [error] 25336#14180: *6 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost:8080"
+2025/11/02 16:25:08 [error] 25336#14180: *7 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:8080"
+2025/11/02 16:25:08 [error] 25336#14180: *7 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/hls/test.m3u8"
+2025/11/02 16:25:24 [info] 25336#14180: *10 client connected '127.0.0.1'
+2025/11/02 16:25:24 [info] 25336#14180: *10 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:25:24 [info] 25336#14180: *10 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:25:24 [info] 25336#14180: *10 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:25:45 [info] 25336#14180: *12 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:25:49 [info] 25336#14180: *14 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:25:59 [info] 25336#14180: *15 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:26:08 [info] 25336#14180: *8 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2025/11/02 16:26:08 [info] 25336#14180: *9 client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond) while waiting for request, client: 127.0.0.1, server: 0.0.0.0:8080
+2025/11/02 16:26:09 [info] 25336#14180: *16 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:26:19 [info] 25336#14180: *17 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:26:33 [info] 25336#14180: *18 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:26:48 [info] 25336#14180: *19 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:01 [info] 25336#14180: *20 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:14 [info] 25336#14180: *21 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:24 [info] 25336#14180: *22 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:34 [info] 25336#14180: *23 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:44 [info] 25336#14180: *24 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:27:54 [info] 25336#14180: *25 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:04 [info] 25336#14180: *26 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:09 [info] 25336#14180: *13 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:32 [info] 25336#14180: *29 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:43 [info] 25336#14180: *30 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:53 [info] 25336#14180: *31 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:28:53 [info] 25336#14180: *10 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:28:53 [info] 25336#14180: *10 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:28:53 [info] 25336#14180: *10 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:28:53 [info] 25336#14180: *10 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:29:05 [info] 25336#14180: *32 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:29:17 [info] 25336#14180: *33 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:29:24 [info] 25336#14180: *28 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:29:24 [info] 25336#14180: *27 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:29:36 [info] 25336#14180: *34 client connected '127.0.0.1'
+2025/11/02 16:29:36 [info] 25336#14180: *34 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:29:36 [info] 25336#14180: *34 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:29:36 [info] 25336#14180: *34 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:29:52 [info] 25336#14180: *37 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:30:02 [info] 25336#14180: *38 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:30:04 [info] 25336#14180: *34 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:04 [info] 25336#14180: *34 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:04 [info] 25336#14180: *34 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:04 [info] 25336#14180: *34 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:13 [info] 25336#14180: *39 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:30:24 [error] 25336#14180: *40 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:8080"
+2025/11/02 16:30:24 [info] 25336#14180: *40 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2025/11/02 16:30:26 [error] 25336#14180: *41 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost:8080"
+2025/11/02 16:30:26 [info] 25336#14180: *36 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:30:26 [info] 25336#14180: *35 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:30:33 [info] 25336#14180: *42 client connected '127.0.0.1'
+2025/11/02 16:30:33 [info] 25336#14180: *42 connect: app='hls' args='' flashver='FMLE/3.0 (compatible; FMSc/1.0)' swf_url='rtmp://localhost/hls' tc_url='rtmp://localhost/hls' page_url='' acodecs=0 vcodecs=0 object_encoding=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:33 [info] 25336#14180: *42 createStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:33 [info] 25336#14180: *42 publish: name='test' args='' type=live silent=0, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:30:36 [error] 25336#14180: *43 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.1", host: "localhost:8080"
+2025/11/02 16:30:36 [info] 25336#14180: *43 client 127.0.0.1 closed keepalive connection (10054: An existing connection was forcibly closed by the remote host)
+2025/11/02 16:30:38 [error] 25336#14180: *44 CreateFile() "C:\Users\ekina\Desktop\nginx-rtmp-win32-1.2.1/temp/hls/test.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/test.m3u8 HTTP/1.0", host: "localhost:8080"
+2025/11/02 16:30:58 [info] 25336#14180: *46 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:02 [info] 25336#14180: *48 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:12 [info] 25336#14180: *49 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:23 [info] 25336#14180: *50 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:33 [info] 25336#14180: *51 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:43 [info] 25336#14180: *52 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:31:53 [info] 25336#14180: *53 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:03 [info] 25336#14180: *54 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:13 [info] 25336#14180: *55 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:23 [info] 25336#14180: *56 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:33 [info] 25336#14180: *57 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:44 [info] 25336#14180: *58 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:32:55 [info] 25336#14180: *59 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:33:07 [info] 25336#14180: *60 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:33:17 [info] 25336#14180: *61 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:33:27 [info] 25336#14180: *62 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:33:37 [info] 25336#14180: *63 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:33:50 [info] 25336#14180: *64 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:34:03 [info] 25336#14180: *65 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:34:13 [info] 25336#14180: *42 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:34:13 [info] 25336#14180: *42 WSARecv() failed (10053: An established connection was aborted by the software in your host machine), client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:34:13 [info] 25336#14180: *42 disconnect, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:34:13 [info] 25336#14180: *42 deleteStream, client: 127.0.0.1, server: 0.0.0.0:1935
+2025/11/02 16:34:13 [info] 25336#14180: *66 client 127.0.0.1 closed keepalive connection
+2025/11/02 16:34:13 [info] 25336#14180: *47 client 127.0.0.1 closed keepalive connection
