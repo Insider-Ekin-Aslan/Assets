@@ -1,0 +1,28 @@
+source:
+	C:\Users\ekina\AppData\Local\Temp\apk-mitm-b6b98d6203be9da4e0fea42f1270e7a8
+binary-lib/windows-33_0_2/libwinpthread-1.dll
+C:\Users\ekina\AppData\Local\Temp\uapksigner-4235207538704569320
+zipalign location: BUILT_IN 
+	C:\Users\ekina\AppData\Local\Temp\uapksigner-4235207538704569320\win-zipalign_33_0_2.exe1490792192634098423.tmp
+keystore:
+	[0] a6289a4f C:\Users\ekina\.android\debug.keystore (DEBUG_ANDROID_FOLDER)
+
+01. tmp.apk
+
+	SIGN
+	file: C:\Users\ekina\AppData\Local\Temp\apk-mitm-b6b98d6203be9da4e0fea42f1270e7a8\tmp.apk (1.67 MiB)
+	checksum: dd034eabd9b26406dd37ad4552aa58a955ee6de9afb466e55eee7299b92ca636 (sha256)
+	- zipalign success
+	- sign success
+
+	VERIFY
+	file: C:\Users\ekina\AppData\Local\Temp\apk-mitm-b6b98d6203be9da4e0fea42f1270e7a8\tmp.apk (1.69 MiB)
+	checksum: eae2373edb9fa5edc538d660abf0bb4521e83c631cc00f1218512122d3f40bf7 (sha256)
+	- zipalign verified
+	- signature verified [v1, v2, v3]
+		Subject: CN=Ekin Aslan, OU=Xaszanyn, O=Banarszanyn, L=Marmaris, ST=Mu§la, C=TR
+		SHA256: 155e9de0684d19b3a69aed1682103bc041faa44b7f3a643f8601d863aa338f8e / SHA256withRSA
+		Expires: Fri Mar 21 23:49:22 EET 2053
+
+[Tue Nov 04 01:38:17 EET 2025][v1.3.0]
+Successfully processed 1 APKs and 0 errors in 0.73 seconds.
