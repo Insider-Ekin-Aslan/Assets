@@ -1,0 +1,7 @@
+"C:\Users\ekina\AppData\Local\Android\Sdk\platform-tools\adb" shell "pidof com.finazzi.distquake"
+
+frida -U -l hook_fcm.js -p
+
+
+
+frida -U -l hook_fcm.js -p 12899 > frida_output.log 2>&1

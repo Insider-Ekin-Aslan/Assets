@@ -1,0 +1,88 @@
+     ____
+    / _  |   Frida 17.5.0 - A world-class dynamic instrumentation toolkit
+   | (_| |
+    > _  |   Commands:
+   /_/ |_|       help      -> Displays the help system
+   . . . .       object?   -> Display information about 'object'
+   . . . .       exit/quit -> Exit
+   . . . .
+   . . . .   More info at https://frida.re/docs/home/
+   . . . .
+   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+Attaching...
+>>>> Initialisation <<<<
+[Android Emulator 5554::PID::12899 ]-> 
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.6, google.delivered_priority=normal, google.sent_time=1762819068188, google.ttl=43200, google.original_priority=normal, latitude=44.8095, preliminary=0, magnitude_range=0, provider=USGS, pop100=4892, magnitude_type=0.6, google.product_id=111881503, data=2025-11-10 23:53:58, from=/topics/x5y12, type=official, depth=4.71, place=21 km SSW of Mammoth, Wyoming, longitude=-110.832, google.message_id=0:1762819068200703%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=33}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.8, google.delivered_priority=normal, google.sent_time=1762819145526, google.ttl=43200, google.original_priority=normal, latitude=38.8215, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=0.8, google.product_id=111881503, data=2025-11-11 00:26:02, from=/topics/x5y12, type=official, depth=2.69, place=7 km NW of The Geysers, CA, longitude=-122.81, google.message_id=0:1762819145531115%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762820370034, google.ttl=43200, google.original_priority=normal, latitude=38.8157, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.3, google.product_id=111881503, data=2025-11-11 00:56:09, from=/topics/x5y12, type=official, depth=2.46, place=5 km NW of The Geysers, CA, longitude=-122.795, google.message_id=0:1762820370040168%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.8, google.delivered_priority=normal, google.sent_time=1762821554316, google.ttl=43200, google.original_priority=normal, latitude=38.7903, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=0.8, google.product_id=111881503, data=2025-11-11 01:05:59, from=/topics/x5y12, type=official, depth=5.77, place=1 km N of The Geysers, CA, longitude=-122.756, google.message_id=0:1762821554320683%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=3}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.6, google.delivered_priority=normal, google.sent_time=1762822145269, google.ttl=43200, google.original_priority=normal, latitude=35.0363, preliminary=0, magnitude_range=0, provider=USGS, pop100=5994, magnitude_type=1.6, google.product_id=111881503, data=2025-11-11 01:11:52, from=/topics/x5y12, type=official, depth=5.68, place=6 km NW of Boron, CA, longitude=-117.701, google.message_id=0:1762822145274894%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=3}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.1, google.delivered_priority=normal, google.sent_time=1762822754867, google.ttl=43200, google.original_priority=normal, latitude=38.8245, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.1, google.product_id=111881503, data=2025-11-11 01:34:41, from=/topics/x5y12, type=official, depth=2.1, place=9 km NW of The Geysers, CA, longitude=-122.843, google.message_id=0:1762822754872592%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=normal, google.sent_time=1762822848384, google.ttl=43200, google.original_priority=normal, latitude=46.7182, preliminary=0, magnitude_range=0, provider=USGS, pop100=5835, magnitude_type=1, google.product_id=111881503, data=2025-11-11 01:12:39, from=/topics/x5y12, type=official, depth=7.56, place=7 km NW of Desert Aire, Washington, longitude=-119.999, google.message_id=0:1762822848389915%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=26}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=3, google.delivered_priority=normal, google.sent_time=1762823011982, google.ttl=43200, google.original_priority=normal, latitude=33.0208, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6124, magnitude_type=ml, google.product_id=111881503, data=2025-11-11 01:37:48, from=/topics/x5y12, type=official, depth=9.1, place=Southern California, longitude=-115.792, google.message_id=0:1762823011986922%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.8, google.delivered_priority=normal, google.sent_time=1762823086436, google.ttl=43200, google.original_priority=normal, latitude=33.9507, preliminary=0, magnitude_range=0, provider=USGS, pop100=6572, magnitude_type=0.8, google.product_id=111881503, data=2025-11-11 01:37:39, from=/topics/x5y12, type=official, depth=12.37, place=7 km NW of Garnet, CA, longitude=-116.586, google.message_id=0:1762823086441302%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.6, google.delivered_priority=normal, google.sent_time=1762825004217, google.ttl=43200, google.original_priority=normal, latitude=33.9555, preliminary=0, magnitude_range=0, provider=USGS, pop100=6572, magnitude_type=0.6, google.product_id=111881503, data=2025-11-11 01:37:39, from=/topics/x5y12, type=official, depth=12.04, place=7 km NNW of Garnet, CA, longitude=-116.586, google.message_id=0:1762825004222093%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=25}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2.2, google.delivered_priority=normal, google.sent_time=1762825426463, google.ttl=43200, google.original_priority=normal, latitude=37.761, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6972, magnitude_type=md, google.product_id=111881503, data=2025-11-11 02:09:14, from=/topics/x5y12, type=official, depth=8.1, place=San Francisco Bay Area, Calif., longitude=-121.94, google.message_id=0:1762825426479200%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=2}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.2, google.delivered_priority=normal, google.sent_time=1762826979610, google.ttl=43200, google.original_priority=normal, latitude=37.76, preliminary=0, magnitude_range=0, provider=USGS, pop100=6972, magnitude_type=1.2, google.product_id=111881503, data=2025-11-11 02:24:11, from=/topics/x5y12, type=official, depth=7.66, place=4 km ESE of San Ramon, CA, longitude=-121.939, google.message_id=0:1762826979615842%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=3}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762827360714, google.ttl=43200, google.original_priority=normal, latitude=37.763, preliminary=0, magnitude_range=0, provider=USGS, pop100=6972, magnitude_type=1.3, google.product_id=111881503, data=2025-11-11 02:29:15, from=/topics/x5y12, type=official, depth=4.91, place=3 km ESE of San Ramon, CA, longitude=-121.945, google.message_id=0:1762827360719958%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.8, google.delivered_priority=normal, google.sent_time=1762828757782, google.ttl=43200, google.original_priority=normal, latitude=32.7858, preliminary=0, magnitude_range=0, provider=USGS, pop100=6147, magnitude_type=0.8, google.product_id=111881503, data=2025-11-11 02:49:19, from=/topics/x5y12, type=official, depth=7.05, place=13 km ENE of Ocotillo, CA, longitude=-115.867, google.message_id=0:1762828757786683%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762829198910, google.ttl=43200, google.original_priority=normal, latitude=38.6877, preliminary=0, magnitude_range=0, provider=USGS, pop100=6559, magnitude_type=1.4, google.product_id=111881503, data=2025-11-11 02:55:41, from=/topics/x5y12, type=official, depth=6.56, place=12 km SE of Middletown, CA, longitude=-122.5, google.message_id=0:1762829198916394%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=0.9, google.delivered_priority=normal, google.sent_time=1762833605475, google.ttl=43200, google.original_priority=normal, latitude=33.9242, preliminary=0, magnitude_range=0, provider=USGS, pop100=5958, magnitude_type=0.9, google.product_id=111881503, data=2025-11-11 03:49:40, from=/topics/x5y12, type=official, depth=2.67, place=24 km S of Twentynine Palms, CA, longitude=-116.06, google.message_id=0:1762833605494332%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.1, google.delivered_priority=normal, google.sent_time=1762835814576, google.ttl=43200, google.original_priority=normal, latitude=38.8213, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.1, google.product_id=111881503, data=2025-11-11 04:24:39, from=/topics/x5y12, type=official, depth=1.67, place=9 km WNW of The Geysers, CA, longitude=-122.847, google.message_id=0:1762835814581864%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=2}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.1, google.delivered_priority=normal, google.sent_time=1762837946176, google.ttl=43200, google.original_priority=normal, latitude=35.3407, preliminary=0, magnitude_range=0, provider=USGS, pop100=5772, magnitude_type=1.1, google.product_id=111881503, data=2025-11-11 04:55:17, from=/topics/x5y12, type=official, depth=6.03, place=16 km WSW of Johannesburg, CA, longitude=-117.801, google.message_id=0:1762837946180657%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=5}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=normal, google.sent_time=1762839181252, google.ttl=43200, google.original_priority=normal, latitude=34.1638, preliminary=0, magnitude_range=0, provider=USGS, pop100=6476, magnitude_type=1, google.product_id=111881503, data=2025-11-11 05:04:23, from=/topics/x5y12, type=official, depth=8.69, place=6 km NNW of Yucca Valley, CA, longitude=-116.45, google.message_id=0:1762839181256321%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762841671399, google.ttl=43200, google.original_priority=normal, latitude=38.8242, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.3, google.product_id=111881503, data=2025-11-11 05:45:27, from=/topics/x5y12, type=official, depth=1.68, place=5 km W of Cobb, CA, longitude=-122.785, google.message_id=0:1762841671414257%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=2}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762841911013, google.ttl=43200, google.original_priority=normal, latitude=38.8242, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.3, google.product_id=111881503, data=2025-11-11 05:57:55, from=/topics/x5y12, type=official, depth=1.65, place=5 km W of Cobb, CA, longitude=-122.784, google.message_id=0:1762841911029532%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=2}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.7, google.delivered_priority=normal, google.sent_time=1762843687290, google.ttl=43200, google.original_priority=normal, latitude=38.8233, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.7, google.product_id=111881503, data=2025-11-11 06:29:26, from=/topics/x5y12, type=official, depth=1.67, place=5 km W of Cobb, CA, longitude=-122.784, google.message_id=0:1762843687295814%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=3}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762843932237, google.ttl=43200, google.original_priority=normal, latitude=38.8395, preliminary=0, magnitude_range=0, provider=USGS, pop100=6177, magnitude_type=1.3, google.product_id=111881503, data=2025-11-11 06:38:48, from=/topics/x5y12, type=official, depth=1.53, place=10 km NW of The Geysers, CA, longitude=-122.838, google.message_id=0:1762843932242427%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=3}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.7, google.delivered_priority=normal, google.sent_time=1762845788056, google.ttl=43200, google.original_priority=normal, latitude=37.3788, preliminary=0, magnitude_range=0, provider=USGS, pop100=4588, magnitude_type=1.7, google.product_id=111881503, data=2025-11-11 07:13:14, from=/topics/x5y12, type=official, depth=10.54, place=2 km NNW of West Bishop, CA, longitude=-118.465, google.message_id=0:1762845788061434%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=1}]
+Process terminated
+
+Thank you for using Frida!

@@ -1,0 +1,165 @@
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{google.delivered_priority=high, google.sent_time=1762385537146, google.ttl=240, google.original_priority=high, latitude=38.16, google.product_id=111881503, mag=5.5, pos=0, upd=0, code=594173829, from=899482329945, peak=1.2, test=1, type=eqn, delay=0, longitude=28.25, randcode=0, detection_latitude=38.16, google.message_id=0:1762385537151506%6de6c749f9fd7ecd, intensity=2, wave_speed=4.7, counter=10, google.c.sender.id=899482329945, detection_longitude=28.25, datetime=2025-11-06 00:32:17, location=150 km (Test)}]
+    b = null
+
+
+
+"<instance: pd.q>"
+
+
+
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762385568303, google.ttl=43200, google.original_priority=normal, latitude=37.3583, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6434, magnitude_type=ml, google.product_id=111881503, data=2025-11-05 23:46:11, from=/topics/x20y12, type=official, depth=7.3, place=Eastern Turkey, longitude=38.4453, google.message_id=0:1762385568309113%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=37}]
+    b = null
+
+
+
+"<instance: pd.q>"
+
+
+
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{google.delivered_priority=high, google.sent_time=1762385610021, google.ttl=240, google.original_priority=high, latitude=38.16, google.product_id=111881503, mag=5.5, pos=0, upd=0, code=775013104, from=899482329945, peak=1.2, test=1, type=eqn, delay=0, longitude=28.25, randcode=0, detection_latitude=38.16, google.message_id=0:1762385610027644%6de6c749f9fd7ecd, intensity=2, wave_speed=4.7, counter=10, google.c.sender.id=899482329945, detection_longitude=28.25, datetime=2025-11-06 00:33:29, location=150 km (Test)}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762385623708, google.ttl=43200, google.original_priority=normal, latitude=39.1735, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6334, magnitude_type=ML, google.product_id=111881503, data=2025-11-06 00:22:25, from=/topics/x20y12, type=official, depth=12.8, place=BAYRAKLI-SINDIRGI (BALIKESIR), longitude=28.2517, google.message_id=0:1762385623713328%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=2.2, google.delivered_priority=normal, google.sent_time=1762385800969, google.ttl=43200, google.original_priority=normal, latitude=37.755, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6439, magnitude_type=ml, google.product_id=111881503, data=2025-11-06 00:18:31, from=/topics/x20y12, type=official, depth=5.6, place=Sicily, Italy, longitude=14.968, google.message_id=0:1762385800973637%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=17}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.7, google.delivered_priority=normal, google.sent_time=1762385924216, google.ttl=43200, google.original_priority=normal, latitude=39.1797, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6334, magnitude_type=ML, google.product_id=111881503, data=2025-11-06 00:31:20, from=/topics/x20y12, type=official, depth=15.2, place=ISIKLAR-SINDIRGI (BALIKESIR), longitude=28.2652, google.message_id=0:1762385924221238%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=4}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+[*] Loaded: com.finazzi.distquake.MyFirebaseMessagingService
+[*] Hook başarıyla kuruldu. Gelen FCM mesajı alındığında dump göreceksin.
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.8, google.delivered_priority=normal, google.sent_time=1762385946800, google.ttl=43200, google.original_priority=normal, latitude=40.8287, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=7082, magnitude_type=ML, google.product_id=111881503, data=2025-11-06 00:22:28, from=/topics/x20y12, type=official, depth=7.3, place=MARMARA DENIZI, longitude=28.126, google.message_id=0:1762385946824480%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=13}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=2.1, google.delivered_priority=normal, google.sent_time=1762386067645, google.ttl=43200, google.original_priority=normal, latitude=37.751, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6439, magnitude_type=ml, google.product_id=111881503, data=2025-11-06 00:31:48, from=/topics/x20y12, type=official, depth=5.5, place=Sicily, Italy, longitude=14.97, google.message_id=0:1762386067660799%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=7}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.1, google.delivered_priority=normal, google.sent_time=1762386126352, google.ttl=43200, google.original_priority=normal, latitude=45.7, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6525, magnitude_type=ml, google.product_id=111881503, data=2025-11-06 00:33:53, from=/topics/x20y12, type=official, depth=0, place=Slovenia, longitude=15.12, google.message_id=0:1762386126357906%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=5}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===
+
+=== [FCM] MyFirebaseMessagingService.c() çağrıldı ===
+ arg0 type: pd.q
+
+
+
+"<instance: pd.q>"
+
+
+
+ [*] Dumping fields of: pd.q
+    CREATOR = android.support.v4.media.a@7e2461f
+    a = Bundle[{magnitude=1.2, google.delivered_priority=normal, google.sent_time=1762386265497, google.ttl=43200, google.original_priority=normal, latitude=38.1243, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6360, magnitude_type=ML, google.product_id=111881503, data=2025-11-06 00:13:51, from=/topics/x20y12, type=official, depth=5.6, place=ARIKONAK-SINCIK (ADIYAMAN), longitude=38.5762, google.message_id=0:1762386265501932%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=16}]
+    b = null
+=== [FCM] MyFirebaseMessagingService.c() bitti ===

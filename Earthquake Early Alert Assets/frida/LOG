@@ -1,0 +1,64 @@
+>>>> Initialisation <<<<
+[Android Emulator 5554::PID::3326 ]->
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.9, google.delivered_priority=normal, google.sent_time=1762813282027, google.ttl=43200, google.original_priority=normal, latitude=39.1778, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6334, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 22:48:39, from=/topics/x20y12, type=official, depth=7, place=Western Turkey, longitude=28.2856, google.message_id=0:1762813282046936%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=32}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=high, google.sent_time=1762813437529, google.ttl=10800, google.original_priority=high, latitude=39.39, google.product_id=111881503, from=/topics/x20y12, type=manual, place=36km Balıkesir, Türkiye, longitude=28.1374, google.message_id=0:1762813437533746%6de6c749f9fd7ecd, google.c.sender.id=899482329945, location=36km Balıkesir, Türkiye}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2.9, google.delivered_priority=normal, google.sent_time=1762813448276, google.ttl=43200, google.original_priority=normal, latitude=39.1798, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6375, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:10:52, from=/topics/x20y12, type=official, depth=10, place=AKTAS-SINDIRGI (BALIKESIR), longitude=28.2017, google.message_id=0:1762813448280816%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762813602106, google.ttl=43200, google.original_priority=normal, latitude=39.2403, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6185, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:14:43, from=/topics/x20y12, type=official, depth=9.8, place=YENILER-SIMAV (KUTAHYA), longitude=28.9505, google.message_id=0:1762813602110115%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2, google.delivered_priority=normal, google.sent_time=1762813661851, google.ttl=43200, google.original_priority=normal, latitude=39.2248, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6372, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:16:54, from=/topics/x20y12, type=official, depth=10.6, place=Western Turkey, longitude=28.0743, google.message_id=0:1762813661863834%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762813902813, google.ttl=43200, google.original_priority=normal, latitude=39.2355, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6372, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:19:59, from=/topics/x20y12, type=official, depth=7.5, place=KOZLU-SINDIRGI (BALIKESIR), longitude=28.1028, google.message_id=0:1762813902818596%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.5, google.delivered_priority=normal, google.sent_time=1762814113435, google.ttl=43200, google.original_priority=normal, latitude=39.2558, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6371, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 22:57:17, from=/topics/x20y12, type=official, depth=6.3, place=Western Turkey, longitude=28.1469, google.message_id=0:1762814113451561%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=35}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=high, google.sent_time=1762814342843, google.ttl=10800, google.original_priority=high, latitude=38.933262, google.product_id=111881503, from=/topics/x20y12, type=manual, place=Gördes-Türkiye, longitude=28.289739, google.message_id=0:1762814342847733%6de6c749f9fd7ecd, google.c.sender.id=899482329945, location=36km Sındırgı, Türkiye}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=3.6, google.delivered_priority=high, google.sent_time=1762814841659, google.ttl=43200, google.original_priority=high, latitude=39.1395, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6380, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:29:08, from=/topics/x20y12, type=official, depth=15.6, place=Western Turkey, longitude=28.272, google.message_id=0:1762814841663363%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.3, google.delivered_priority=normal, google.sent_time=1762814952723, google.ttl=43200, google.original_priority=normal, latitude=37.3858, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6559, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:01:37, from=/topics/x20y12, type=official, depth=7, place=Central Turkey, longitude=36.8856, google.message_id=0:1762814952728799%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=37}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.6, google.delivered_priority=normal, google.sent_time=1762815232135, google.ttl=43200, google.original_priority=normal, latitude=39.2087, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6372, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:25:28, from=/topics/x20y12, type=official, depth=7.3, place=KERTIL-SINDIRGI (BALIKESIR), longitude=28.1205, google.message_id=0:1762815232140827%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=14}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.6, google.delivered_priority=normal, google.sent_time=1762815551012, google.ttl=43200, google.original_priority=normal, latitude=39.1313, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6380, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:31:30, from=/topics/x20y12, type=official, depth=11.9, place=YUREGIL-SINDIRGI (BALIKESIR), longitude=28.2908, google.message_id=0:1762815551017198%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=11}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.8, google.delivered_priority=normal, google.sent_time=1762815623474, google.ttl=43200, google.original_priority=normal, latitude=41.2717, preliminary=0, magnitude_range=0, provider=INGV, pop100=6848, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:29:11, from=/topics/x20y12, type=official, depth=10.4, place=2 km S Reino (BN), longitude=14.8218, google.message_id=0:1762815623480404%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=13}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2.7, google.delivered_priority=normal, google.sent_time=1762815911887, google.ttl=43200, google.original_priority=normal, latitude=39.2455, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6375, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:35:09, from=/topics/x20y12, type=official, depth=11.3, place=Western Turkey, longitude=28.1633, google.message_id=0:1762815911893202%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=10}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=high, google.sent_time=1762815949535, google.ttl=10800, google.original_priority=high, latitude=39.6576, google.product_id=111881503, from=/topics/x20y12, type=manual, place=4km Balıkesir, Türkiye, longitude=27.8438, google.message_id=0:1762815949539785%6de6c749f9fd7ecd, google.c.sender.id=899482329945, location=4km Balıkesir, Türkiye}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762816366854, google.ttl=43200, google.original_priority=normal, latitude=39.1355, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6370, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:37:50, from=/topics/x20y12, type=official, depth=4.5, place=SINANDEDE-SINDIRGI (BALIKESIR), longitude=28.1087, google.message_id=0:1762816366860002%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=16}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.9, google.delivered_priority=normal, google.sent_time=1762816418915, google.ttl=43200, google.original_priority=normal, latitude=39.1142, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6380, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 23:40:04, from=/topics/x20y12, type=official, depth=13.6, place=YUREGIL-SINDIRGI (BALIKESIR), longitude=28.283, google.message_id=0:1762816418918822%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=14}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2.7, google.delivered_priority=normal, google.sent_time=1762816558892, google.ttl=43200, google.original_priority=normal, latitude=38.4059, preliminary=0, magnitude_range=0, provider=EMSC, pop100=5728, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:38:16, from=/topics/x20y12, type=official, depth=9.6, place=Greece, longitude=20.4771, google.message_id=0:1762816558896654%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=18}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1, google.delivered_priority=high, google.sent_time=1762816692692, google.ttl=10800, google.original_priority=high, latitude=39.6494698, google.product_id=111881503, from=/topics/x20y12, type=manual, place=Türkiye, longitude=27.8556723, google.message_id=0:1762816692707639%6de6c749f9fd7ecd, google.c.sender.id=899482329945, location=2km Balıkesir, Türkiye}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=2.4, google.delivered_priority=normal, google.sent_time=1762817003765, google.ttl=43200, google.original_priority=normal, latitude=39.2377, preliminary=0, magnitude_range=0, provider=EMSC, pop100=6375, magnitude_type=ml, google.product_id=111881503, data=2025-11-10 23:44:17, from=/topics/x20y12, type=official, depth=12.5, place=Western Turkey, longitude=28.154, google.message_id=0:1762817003771022%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=18}]
+
+>>>> Firebase Messaging Service Call <<<<
+Bundle[{magnitude=1.4, google.delivered_priority=normal, google.sent_time=1762817097294, google.ttl=43200, google.original_priority=normal, latitude=39.2478, preliminary=0, magnitude_range=0, provider=BDTIM, pop100=6372, magnitude_type=ML, google.product_id=111881503, data=2025-11-10 20:38:41, from=/topics/x20y12, type=official, depth=17.4, place=KARAGUR-SINDIRGI (BALIKESIR), longitude=28.1158, google.message_id=0:1762817097299676%6de6c749f9fd7ecd, google.c.sender.id=899482329945, difference=19}]
