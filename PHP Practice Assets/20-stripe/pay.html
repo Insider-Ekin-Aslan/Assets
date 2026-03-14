@@ -1,0 +1,33 @@
+<script src="https://js.stripe.com/v3/"></script>
+<button id="pay-button">Pay $10</button>
+
+<script>
+  var stripe = Stripe("pk_test_xxx");
+
+  document.getElementById("pay-button").addEventListener("click", function () {
+    let client_secret = prompt("Client Secret");
+
+    fetch("/create-payment-intent.php") // Call your PHP file that creates the PaymentIntent
+      .then(function (response) {
+        return response.json();
+      })
+      .then(function (data) {
+        return stripe.confirmCardPayment(data.client_secret, {
+          payment_method: {
+            card: {
+              // Insert your card details here or use Stripe's UI elements
+            },
+          },
+        });
+      })
+      .then(function (result) {
+        if (result.error) {
+          // Show error to your customer (e.g., insufficient funds)
+          console.error(result.error.message);
+        } else {
+          // The payment succeeded!
+          alert("Payment successful!");
+        }
+      });
+  });
+</script>
